@@ -5,4 +5,4 @@
 
 👩‍💻 Pronouns are She/Her
 
-🦄 I work as a tech support, security officer, testing person - I'm not a developer!
+🦄 I work as a tech support, security officer, system testing person.
