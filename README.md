@@ -5,4 +5,4 @@
 
 👩‍💻 Pronouns are She/Her
 
-🦄 I work as a tech support.
+🦄 I work in tech support.
