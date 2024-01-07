@@ -1,8 +1,8 @@
 ### Hiya 👋
 🎓 BSc Mathematics First-class Honours from Newcastle University
 
-🎓 Studying for MSc Computer Science with Cyber Security at University of York
+🎓 MSc Computer Science with Cyber Security Distinction from University of York
 
 👩‍💻 Pronouns are She/Her
 
-🦄 I work in tech support.
+🦄 I work as a sys admin.
